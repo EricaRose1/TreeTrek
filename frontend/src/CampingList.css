@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap");
+
+form {
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  width: 35%;
+  height: 2em;
+  font-size: 20px;
+  border: 0.5px solid black;
+  border-radius: 5px;
+}
+
+input.checkbox {
+  width: 10%;
+}
+
+.AddItem {
+  font-size: 25px;
+  font-family: "Love Ya Like A Sister", sans-serif;
+  width: 10%;
+  margin-top: 15px;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+div.Item {
+  font-size: 38px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-left: 5%;
+}
+
+.Item Button {
+  width: 3em;
+  height: 2.8em;
+  border-radius: 55%;
+  font-weight: bolder;
+}

@@ -1,0 +1,26 @@
+.SearchBarContainer {
+  align-items: center;
+}
+
+.SearchBar {
+  text-align: center;
+  background-color: transparent;
+  width: 18vw;
+  border: 2px solid black;
+  border-radius: 35px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.SubmitBtn {
+  background-color: transparent;
+}
+
+.ParkList {
+  align-items: center;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}

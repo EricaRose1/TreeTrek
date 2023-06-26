@@ -1,0 +1,23 @@
+ul.navbar {
+  margin-top: 0;
+  text-align: center;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.link {
+  text-decoration: none;
+  color: #eaa534;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.BackBtn {
+  color: black;
+  display: block;
+  border: 1px;
+  border-radius: 50%;
+  padding: 8px;
+  background-color: #815f4684;
+}
